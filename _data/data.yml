@@ -121,7 +121,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: C# & .Net Framwork
+      - name: C# & .Net Framework
         level: 98%
 
       - name: WPF
@@ -131,6 +131,12 @@ skills:
         level: 95%
 
       - name: Asp.net WebApi, Asp.net Core & Entity Framework
+        level: 80%
+      
+      - name: SQL Server
+        level: 80%
+       
+       -name: Continuous Integration and Continuous Delivery (CI/CD) - GitHub
         level: 80%
 
 footer: >
