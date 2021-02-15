@@ -121,23 +121,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: C# & .Net Framwork
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: WPF
         level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+       
+      - name: NUnit, XUnit and Moq
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Asp.net WebApi, Asp.net Core & Entity Framework
+        level: 80%
 
 footer: >
-    Designed with <i class="fas"></i> by <a href="https://www.linkedin.com/in/vinay-hc-reddy-03bb0232/" target="_blank" rel="nofollow">Vinay H C Reddy</a>
+    Designed by <a href="https://www.linkedin.com/in/vinay-hc-reddy-03bb0232/" target="_blank" rel="nofollow">Vinay H C Reddy</a>
