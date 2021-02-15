@@ -130,10 +130,13 @@ skills:
       - name: NUnit, XUnit and Moq
         level: 95%
 
-      - name: Asp.net WebApi, Asp.net Core & Entity Framework
+      - name: Asp.net WebApi,  
         level: 80%
-      
-      - name: SQL Server
+        
+      - name: Asp.net Core
+        level: 80%
+        
+      - name: SQL Server & Entity Framework
         level: 80%
        
        -name: Continuous Integration and Continuous Delivery (CI/CD) - GitHub
