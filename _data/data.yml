@@ -97,26 +97,6 @@ projects:
         link: "#"
         tagline: "Customer Insight is Customized Customer Relationship Management (CRM) tool used by Banco Popular care center user to serve customer. This tool is built by WPF technology and targeted for New Windows Operating like Windows 7 and Windows 8(Upgraded version)."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
@@ -139,7 +119,7 @@ skills:
       - name: SQL Server & Entity Framework
         level: 80%
        
-       -name: Continuous Integration and Continuous Delivery (CI/CD) - GitHub
+      - name: Continuous Integration and Continuous Delivery (CI/CD) - GitHub
         level: 80%
 
 footer: >
